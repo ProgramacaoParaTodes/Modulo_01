@@ -1,4 +1,4 @@
-# Lógica de Programação e Fundamentos de Python - Módulo 01
+# Lógica de Programação e Fundamentos de Python
 
 Por favor, leia atentamente todas as informações contidas aqui para o bom andamento do curso. Dúvidas que já estão respondidas aqui não serão respondidas individualmente, ok? 😉
 
