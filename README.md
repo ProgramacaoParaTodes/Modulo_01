@@ -8,7 +8,7 @@ Por favor, leia atentamente todas as informações contidas aqui para o bom anda
 
 🔹 **Início das aulas:** 01 de agosto de 2020.
 
-🔸 **Onde serão as aulas?** No aplicativo Zoom. O link será sempre o mesmo que você recebeu no e-mail.
+🔸 **Onde serão as aulas?** No aplicativo Zoom. O link será sempre o mesmo que você recebeu no e-mail. **Importante**: Abra seu áudio somente quando for fazer uma pergunta, assim evitamos barulhos durante a aula 🔇
 
 🔹 **Horário das aulas:** 19h às 20h.
 
