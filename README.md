@@ -1,37 +1,51 @@
 # Lógica de Programação e Fundamentos de Python
 
-Por favor, leia atentamente todas as informações contidas aqui para o bom andamento do curso. Dúvidas que já estão respondidas aqui não serão respondidas individualmente, ok? 😉
+Bem-vinde ao Módulo 01 do Programação para Todes! 🎉
 
-🛑 Se você ainda não leu nosso [Código de Conduta](http://programacaoparatodes.com.br/codigo-de-conduta/), **leia ANTES da primeira aula**! 💜
+Este texto contém **muitas** informações importantes sobre o curso e alguns links para explicações mais detalhadas sobre tópicos específicos.
 
-💚 Seja sempre gentil, paciente e compassive com todes que estão na turma! 💖
+**👀 LEIA TUDO. Sim, você precisa ler tudo. 👀**
 
-🔹 **Início das aulas:** 01 de agosto de 2020.
+🛑 Dúvidas que já estão respondidas aqui e/ou nos links com explicações detalhadas **não** serão respondidas individualmente, ok? 😉
 
-🔸 **Onde serão as aulas?** No aplicativo Zoom. O link será sempre o mesmo que você recebeu no e-mail. **Importante**: Abra seu áudio somente quando for fazer uma pergunta, assim evitamos barulhos durante a aula 🔇
+🛑 Ao participar do projeto, você automaticamente concorda com o nosso [Código de Conduta](http://programacaoparatodes.com.br/codigo-de-conduta/) e compromete-se a respeitá-lo!
 
-🔹 **Horário das aulas:** 19h às 20h.
+## Sobre as aulas
 
-🛑 A primeira aula começará 10 minutos antes (18h50) para que possamos sanar eventuais problemas com o Zoom. Caso você não entre nesse horário e tenha algum problema com o áudio, **não será possível parar a aula para solucioná-lo**, ok? 🔈
+🔹 Elas acontecerão às terças-feiras, das 19h00 às 20h00 e **não** serão gravadas! Portanto, não falte! 😉
 
-🔸 **Tolerância de atraso:** 05 minutos. Não será permitida a entrada depois de 19h05.
+💜 **Primeira aula:** 19 de janeiro de 2021. 💜
 
-🔹 **Precisa instalar alguma coisa?** Não. Utilizaremos o [Repl.it](https://repl.it/). Visite o site com antecedência e crie uma conta clicando em **Sign up** no canto superior direito. Será oferecida a opção de criar conta com Gmail, GitHub ou Facebook.
+🔸 Utilizaremos o Zoom. Instale ele **ANTES** do início das aulas e verifique o funcionamento do áudio de entrada e saída (microfone, caixas de som e/ou fones de ouvido) **ANTES** da aula. 
 
-🔸 **Posso assistir pelo celular?** Se você tiver um computador para praticar, sim. Caso contrário, não recomendo.
+💚 Dúvidas sobre o Zoom? Leia [este](https://www.zoom.com.br/notebook/deumzoom/como-usar-o-zoom-no-notebook-e-computador-pc-para-fazer-videoconferencia) post!
 
-🔹 **Quantas aulas serão?** Aproximadamente 10, depende do andamento da turma.
+🔹 No dia da aula, acesse o link do Zoom com pelo menos 05 minutos de antecedência e com tudo do seu lado funcionando. Ou seja, tenha certeza de que suas configurações de áudio estão OK.
 
-🔸 **Qual o canal oficial para tirar dúvidas?** O grupo do Telegram. Eu (Erika) estarei no grupo e o monitor Guilherme Gomes, meu ex-alune do pré-vestibular e ex-alune da Turma 1 e atualmente fazendo o Módulo 2 de Orientação a Objetos em Python 🧡
+🔸 **Tolerância para atrasos:** a entrada será liberada até 19h05. Depois deste horário, não será mais possível acessar a sala, pois isso atrapalha o andamento da aula. Portanto, prepare-se com alguma antecedência!
 
-🔹 **Qual a melhor maneira de tirar dúvidas?** Mande sua pergunta e o link para o seu Repl.it no Telegram, pois assim podemos ver o que você está codando e te ajudar! 😉
+🔹 **Verificação de áudio:** de 18h55 até 19h00 vamos nos falando com microfones abertos para que tenhamos certeza que todes me ouvem e eu também ouço todes. 🔈 A partir de 19h00, por favor, mantenha seu microfone no mudo para evitar barulhos que possam atrapalhar a aula. Em diversas ocasiões, perguntarei se alguém tem dúvidas. Neste momento, caso tenha dúvidas, tire o microfone do mudo e faça todas as perguntas que quiser! 😁
+
+🛑 **Não será possível parar a aula para resolver problemas relacionados ao Zoom!**
+
+❌ **É proibido gravar a aula e/ou compartilhar o link do Zoom.**
+
+💚 **Seja sempre gentil, paciente e compassive com todes que estão na turma!** 💖
+
+🔹 **Precisa instalar alguma coisa além do Zoom?** Não. Utilizaremos o [Repl.it](https://repl.it/). Acesse [este guia](REPL.md) para entender como o Repl funciona. Na primeira aula, vou considerar que todes leram o guia! 🔴
+
+🔸 **Posso assistir pelo celular?** Se você tiver um computador para praticar, sim. Caso contrário, não recomendo!
+
+🔹 **Quantas aulas serão?** Entre 08 e 10 aulas, depende do andamento da turma.
+
+🔸 **Qual o canal oficial para tirar dúvidas?** O canal do Módulo 01 no Slack do Projeto 🧡
+
+🔹 **Qual a melhor maneira de tirar dúvidas?** Mande sua pergunta e o link para o seu Repl.it no Slack, pois assim podemos ver o que você está codando e te ajudar! 😉
 
 🔸 **Pode faltar?** Se você tiver duas faltas seguidas OU três faltas não seguidas, você será desligade do curso.
 
 🔹 **"Me inscrevi, consegui a vaga, mas quero desistir no meio do curso."** Tudo bem, entretanto, como você tirou a vaga de outra pessoa, não poderá participar de outra turma desse mesmo curso e também não será priorizade em outras turmas.
 
-🔸 **Tem que entregar alguma coisa?** Sim, desafios semanais que serão corrigidos por mim ou pelo monitor.
+🔸 **Tem que entregar alguma coisa?** Sim. Para entender sobre os desafios, clique [aqui](DESAFIOS.md).
 
-🔹 **Como faço para ter o certificado?** Se você participar de pelo menos 80% das aulas e fizer todos desafios que serão propostos ao final de cada aula, terá direito ao certificado e ele será enviado para o seu e-mail 😉
-
-❌ É proibido gravar a aula e/ou compartilhar os links do Telegram e do Zoom.
+🔹 **Como faço para obter o certificado?** Essa informação você encontra no mesmo link da pergunta anterior 😉
