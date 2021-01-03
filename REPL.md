@@ -48,7 +48,7 @@ Vamos começar pelo botão +. A função dele é criar um novo repl para você, 
 
 <img src='Repl04.png'>
 
-Esta caixinha serve para que possamos escolher a linguagem que nosso repl terá. No caso do curso, será sempre Python. Caso você esteja estudando outras linguagens, fique à vontade para explorar :)
+Esta caixinha serve para que possamos escolher a linguagem que nosso repl terá. No caso do curso, será sempre Python. Caso você esteja estudando outras linguagens, fique à vontade para explorar 🧡
 
 Depois de escolher a linguagem, podemos dar um nome ao repl. Caso você não escolha um nome, o próprio serviço dará um nome automático.
 
@@ -84,11 +84,11 @@ A área destacada em amarelo é o console onde podemos visualizar a saída dos n
 
 O botão destacado em verde, Share, serve para que possamos compartilhar nosso repl com outras pessoas. Via de regra, elas podem visualizar.
 
-E, por fim, o botão destacado em vermelho, Run, será utilizado na próxima seção ;)
+E, por fim, o botão destacado em vermelho, Run, será utilizado na próxima seção 😉
 
 ## Escrevendo nosso primeiro código
 
-Vamos fazer um teste rápido aqui para demonstrar como o repl realmente funciona :)
+Vamos fazer um teste rápido aqui para demonstrar como o repl realmente funciona 😄
 
 No arquivo main.py, na primeira linha, digite a seguinte instrução:
 
@@ -100,11 +100,11 @@ Em seguida, clique no botão Run. Você provavelmente está vendo algo assim:
 
 <img src='Repl06.png'>
 
-De um lado, você tem o seu código. Tudo bem que é apenas uma única linha, mas é um código ;)
+De um lado, você tem o seu código. Tudo bem que é apenas uma única linha, mas é um código 💜
 
 E, do outro, após clicar em Run, você tem o resultado dele. O comando *print* exibe na tela o conteúdo que foi passado entre parênteses, no caso, a expressão *Hello World*.
 
-Quando você digita esse código (destaque azul) e clica em Run, ele é executado e, por isso, no console (destaque amarelo), você está vendo *Hello World" ;)
+Quando você digita esse código (destaque azul) e clica em Run, ele é executado e, por isso, no console (destaque amarelo), você está vendo *Hello World* 🤩
 
 Ao longo do curso, vamos escrever muitos códigos. Através do console, poderemos interagir com ele inserindo informações e obtendo resultados.
 
@@ -120,4 +120,4 @@ Por padrão, eles serão salvos em uma pasta chamada *Unnamed (X)* onde X mostra
 
 Você poderá criar outras pastas, mover seus repls, excluir, etc. É um mecanismo muito parecido com o Google Drive ou até mesmo com o gerenciador de arquivos do seu sistema operacional.
 
-**Importante:** Todos os seus repls são públicos. A conta gratuita **não** dá direito a ter repls privados. Sendo assim, nunca coloque informações sensíveis nos seus códigos porque ficarão visíveis a outras pessoas que utilizam o Repl.it ;) 
+**Importante:** Todos os seus repls são públicos. A conta gratuita **não** dá direito a ter repls privados. Sendo assim, nunca coloque informações sensíveis nos seus códigos porque ficarão visíveis a outras pessoas que utilizam o Repl.it 😉
