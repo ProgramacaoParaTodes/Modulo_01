@@ -24,11 +24,11 @@ A maioria das funcionalidades do Repl.it é gratuita e, para o que vamos utiliza
 
 Passo 1 - Acesse www.repl.it.
 
-<img src='./Imagens/Captura01.png'>
+<img src='Repl01.png'>
 
 Passo 2 - Clique em Start coding ou Sign up.
 
-<img src='./Imagens/Captura02.png'>
+<img src='Repl02.png'>
 
 Passo 3 - **Alternativa 1 (recomendável):** Você pode utilizar um Gmail, uma conta no GitHub ou no Facebook para criar sua conta. Para isso, clique no logo correspondente e faça o login. **Alternativa 2:** Você pode preencher os campos username, email e password e clicar em Sign up.
 
@@ -38,7 +38,7 @@ Passo 3 - **Alternativa 1 (recomendável):** Você pode utilizar um Gmail, uma c
 
 Depois de criar sua conta e após logar-se, você verá algo bem parecido com isso:
 
-<img src='./Imagens/Captura03.png'>
+<img src='Repl03.png'>
 
 Eventualmente pode existir um ou outro elemento diferente. Por exemplo, talvez você não esteja visualizando esse anúncio referente ao Hacker Plan e/ou esteja vendo algum anúncio diferente. Mesmo assim, as características da home do Repl.it, uma vez que a pessoa esteja logada, são as mesmas.
 
@@ -46,7 +46,7 @@ As características mais importantes são o menu à esquerda e o botão + no can
 
 Vamos começar pelo botão +. A função dele é criar um novo repl para você, então, quando clicar nele, o que você verá na tela é algo parecido com isso:
 
-<img src='./Imagens/Captura04.png'>
+<img src='Repl04.png'>
 
 Esta caixinha serve para que possamos escolher a linguagem que nosso repl terá. No caso do curso, será sempre Python. Caso você esteja estudando outras linguagens, fique à vontade para explorar :)
 
@@ -58,7 +58,7 @@ Uma vez escolhida a linguagem e o nome, clique em Create repl.
 
 Você verá algo assim:
 
-<img src='./Imagens/Captura05.png'>
+<img src='Repl05.png'>
 
 Note que a URL do seu repl - que é única - fica totalmente relacionada ao seu username e ao nome escolhido no momento da criação do repl.
 
@@ -98,7 +98,7 @@ print('Hello World')
 
 Em seguida, clique no botão Run. Você provavelmente está vendo algo assim:
 
-<img src='./Imagens/Captura06.png'>
+<img src='Repl06.png'>
 
 De um lado, você tem o seu código. Tudo bem que é apenas uma única linha, mas é um código ;)
 
@@ -112,7 +112,7 @@ Ao longo do curso, vamos escrever muitos códigos. Através do console, poderemo
 
 Sempre que quiser acessar seus repls, clique no menu hamburguer localizado no canto superior esquerdo da tela e você verá o menu, o mesmo que aparecia na home (lembra?).
 
-<img src='./Imagens/Captura07.png'>
+<img src='Repl07.png'>
 
 Selecionando a opção My repls, você terá acesso a todos os repls que você criou.
 
