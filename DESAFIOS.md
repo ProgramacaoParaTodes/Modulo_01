@@ -1,8 +1,8 @@
 # Sobre desafios e certificado
 
-Não é possível aprender a programar em um dia e nem sem praticar ;) Por isso, para que você tenha direito ao certificado, terá que entregar dois desafios.
+Não é possível aprender a programar em um dia e nem sem praticar 😉 Por isso, para que você tenha direito ao certificado, terá que entregar dois desafios.
 
-Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de corrigir algum ponto do desafio, você receberá um e-mail informando isso, ok? :)
+Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de corrigir algum ponto do desafio, você receberá um e-mail informando isso, ok? 😁
 
 ## ⭐️ Primeiro desafio
 
@@ -12,7 +12,7 @@ Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de
 
 **Importante:** Caso você não entregue o primeiro desafio ou entregue menos de 75% dele, não poderá mais continuar as aulas!
 
-✅ Clique [aqui]() para entregar o primeiro desafio.
+✅ Clique [aqui](https://forms.gle/Qc5YQ2SNcRBk4bcS9) para entregar o primeiro desafio.
 
 ## ⭐️ Segundo desafio
 
@@ -20,7 +20,7 @@ Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de
 
 **Data limite para entrega:** Uma semana após a última aula.
 
-✅ Clique [aqui]() para entregar o segundo desafio.
+✅ Clique [aqui](https://forms.gle/RNo66WEaoH8KakmL8) para entregar o segundo desafio.
 
 ## 🏆 Critérios para obtenção do certificado
 
