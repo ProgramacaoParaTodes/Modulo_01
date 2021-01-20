@@ -1,4 +1,4 @@
-# Resumão da Aula 01
+# Resumo da Aula 01
 
 Na nossa primeira aula, falamos sobre os seguintes assuntos:
 - Comando print().
