@@ -208,3 +208,12 @@ elif codigo_promo == 4 or codigo_promo == 19:
 else: 
     print("Não há desconto para esse código.")
 ```
+
+# Exercício
+
+Escreva um programa que peça para digitar a média e o número de faltas em uma determinada disciplina de um(a) estudante. O programa deverá 
+exibir na tela:
+- APROVADE se a média for igual ou maior que 7.0 e o número de faltas for inferior a 4.
+- EM PROVA FINAL se a média estiver entre 4.0 e 6.9 e o número de faltas for inferior a 4.
+- REPROVADE POR FALTA se o número de faltas for igual ou maior que 4.
+- REPROVADE POR MÉDIA se a média estiver abaixo de 4.0.
