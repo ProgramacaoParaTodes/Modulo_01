@@ -217,3 +217,4 @@ exibir na tela:
 - EM PROVA FINAL se a média estiver entre 4.0 e 6.9 e o número de faltas for inferior a 4.
 - REPROVADE POR FALTA se o número de faltas for igual ou maior que 4.
 - REPROVADE POR MÉDIA se a média estiver abaixo de 4.0.
+- REPROVADE POR FALTA E MÉDIA se o número de faltas for igual ou maior que 4 e a média estiver abaixo de 4.0.
