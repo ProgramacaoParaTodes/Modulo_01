@@ -5,6 +5,7 @@ Na nossa terceira aula, falamos sobre os seguintes assuntos:
 - Melhorando nossa saída de dados com o print().
 - Concatenação de strings.
 - Método len().
+- Pegando um caractere da string.
 - Fatiamento de strings.
 - Métodos de string: isnumeric(), isalpha(), isalnum() e isupper().
 
@@ -122,7 +123,7 @@ print((hello + "!\n")*3)
 
 **Atenção:** Colocamos *hello + "!\n"* entre parênteses para que o "pacote" todo *Hello!* seja multiplicado 3x e pulando linha por causa do \n.
 
-### Método len()
+## Método len()
 
 Como podemos descobrir o número de caracteres de uma string?
 
@@ -142,3 +143,86 @@ print("Tamanho com espaços:", chokito1_size) # 94 caracteres
 chokito2 = "Leitecondensado,caramelizadocomflocoscrocantesecobertocomodeliciosochocolateNestlé"
 chokito2_size = len(chokito2)
 print("Tamanho sem espaços:", chokito2_size) # 82 caracteres
+```
+
+## Pegando um caractere da string
+
+Vamos entender como é numerada a posição de cada caractere na string.
+
+```python
+advice = "FICA EM CASA"
+```
+
+Cada caractere - incluindo os espaços - ocupa uma posição cuja numeração começa do ZERO e não do UM.
+
+| F | I | C | A |   | E | M |   | C | A | S  | A  |
+|:-:|---|---|:-:|---|---|---|---|---|---|----|----|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+
+Portanto, se eu quiser pegar o primeiro caractere dessa string - que é a letra "F" - basta utilizar o seguinte comando:
+
+```python
+first_char = advice[0]
+```
+
+Estamos dizendo para o Python pegar o caractere na posição zero! Se fizermos o print do que foi salvo na variável *first_char*, teremos a letra "F".
+
+## Fatiamento de string
+
+Suponha que no meu cadastro de usuários o campo "celular" foi preenchido por padrão da seguinte maneira: *+55(21)999999999**. Como eu faço se eu quiser exibir somente a parte *(21)999999999*?
+
+Podemos fazer isso "fatiando" a string! Mas antes, vamos lembrar de como numerar cada caractere da string:
+
+| + | 5 | 5 | ( | 2 | 1 | ) | 9 | 9 | 9 | 9  | 9  | 9  | 9  | 9  | 9  |
+|:-:|---|---|:-:|---|---|---|---|---|---|----|----|----|----|----|----|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+
+Precisamos "fatiar" a string começando da posição 3 e terminando **depois** da posição 15, uma vez que queremos que o **primeiro (** e o **último 9** estejam contidos no resultado.
+
+```python
+mobile = "+55(21)999999999"
+print(mobile[3:16])     # imprime (21)999999999 na tela
+```
+
+Quando fazemos isso, estamos dizendo "Python, pega a string mobile e corta o pedaço que vai do 3 até o 16, beleza?". 
+
+No comando, escrevemos 16 porque o caractere que ocupa a posição 15 deve estar incluso.
+
+## Métodos de string: isnumeric(), isalpha(), isalnum() e isupper()
+
+**isnumeric()**
+
+Retorna True se a string possuir somente os caracteres numéricos de 0 a 9 e retorna False se a string possuir qualquer outra coisa.
+
+```
+print("1234".isnumeric())   # True
+print("abcd".isnumeric())   # False
+print("ab12".isnumeric())   # False
+print("123!".isnumeric())   # False
+```
+
+**isalpha()**
+
+Retorna True se a string possuir somente os caracteres abcdefghijklmnopqrstuvwxyz (maiúsculos ou minúsculos) e retorna False se a string possuir qualquer outra coisa.
+
+```
+print("1234".isalpha())   # False
+print("abcd".isalpha())   # True
+print("ab12".isalpha())   # False
+print("123!".isalpha())   # False
+```
+
+**isalnum()**
+
+Retorna True se a string possuir os caracteres de 0 a 9 e os caracteres abcdefghijklmnopqrstuvwxyz (maiúsculos ou minúsculos) e retorna False se a string possuir qualquer outra coisa como espaços e caracteres especiais.
+
+```
+print("1234".isalnum())   # True
+print("abcd".isalnum())   # True
+print("ab12".isalnum())   # True
+print("123!".isalnum())   # False
+print("a_23".isalnum())   # False
+```
+
+**isupper()**
+
