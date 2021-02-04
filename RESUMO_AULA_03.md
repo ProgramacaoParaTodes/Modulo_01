@@ -194,7 +194,7 @@ No comando, escrevemos 16 porque o caractere que ocupa a posição 15 deve estar
 
 Retorna True se a string possuir somente os caracteres numéricos de 0 a 9 e retorna False se a string possuir qualquer outra coisa.
 
-```
+```python
 print("1234".isnumeric())   # True
 print("abcd".isnumeric())   # False
 print("ab12".isnumeric())   # False
@@ -205,7 +205,7 @@ print("123!".isnumeric())   # False
 
 Retorna True se a string possuir somente os caracteres abcdefghijklmnopqrstuvwxyz (maiúsculos ou minúsculos) e retorna False se a string possuir qualquer outra coisa.
 
-```
+```python
 print("1234".isalpha())   # False
 print("abcd".isalpha())   # True
 print("ab12".isalpha())   # False
@@ -216,7 +216,7 @@ print("123!".isalpha())   # False
 
 Retorna True se a string possuir os caracteres de 0 a 9 e os caracteres abcdefghijklmnopqrstuvwxyz (maiúsculos ou minúsculos) e retorna False se a string possuir qualquer outra coisa como espaços e caracteres especiais.
 
-```
+```python
 print("1234".isalnum())   # True
 print("abcd".isalnum())   # True
 print("ab12".isalnum())   # True
@@ -226,3 +226,17 @@ print("a_23".isalnum())   # False
 
 **isupper()**
 
+Retorna True se as letras da string forem maiúsculas e False se forem minúsculas.
+
+```python
+print("1234".isupper())   # False
+print("ABcD".isupper())   # False
+print("AB12".isupper())   # True
+print("123!".isupper())   # False
+print("A_23".isupper())   # True
+```
+
+### Exercício
+
+Escreva um programa que verifique o nível de segurança da senha digitada por uma pessoa de acordo com as seguintes regras:
+- A senha deverá ter exatamente 5 caracteres;
