@@ -248,3 +248,5 @@ Escreva um programa que verifique o nível de segurança da senha digitada por u
 **Para ajudar nos testes:**
 - Senhas que devem ser consideradas válidas pelo algoritmo: **E$12b**, **Ac90!**, **III1$**.
 - Senhas que devem ser consideradas inválidas pelo algoritmo: **e$12b**, **Acge!**, **Acget**, **Python**, **Oi**
+
+O programa deverá retornar todas as críticas sobre a senha. Ou seja, se ela não tiver exatamente 5 caracteres e a primeira letra não for maiúscula, essas duas mensagens deverão aparecer na tela.
