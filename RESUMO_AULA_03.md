@@ -240,3 +240,11 @@ print("A_23".isupper())   # True
 
 Escreva um programa que verifique o nível de segurança da senha digitada por uma pessoa de acordo com as seguintes regras:
 - A senha deverá ter exatamente 5 caracteres;
+- O primeiro caractere deverá ser uma letra maiúscula;
+- Deverá ter pelo menos um número;
+- Deverá ter pelo menos um caractere especial;
+- Não pode ter espaços.
+
+**Para ajudar nos testes:**
+- Senhas que devem ser consideradas válidas pelo algoritmo: **E$12b**, **Ac90!**, **III1$**.
+- Senhas que devem ser consideradas inválidas pelo algoritmo: **e$12b**, **Acge!**, **Acget**, **Python**, **Oi**
