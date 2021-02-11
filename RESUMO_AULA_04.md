@@ -246,7 +246,7 @@ Conforme as instruções, o desafio deverá ser entregue antes da 6a aula. Nossa
 
 Não deixe de entregar! Se não conseguir fazer funcionar 100%, entregue o que você fez, tente atingir pelo menos 75%. Para mim, é muito mais importante que você tente fazer, tire dúvidas, discuta com seus colegas, se esforce, etc. do que entregar um código funcionando 100%, beleza? 💜
 
-**Aquela colher de chá...***
+**Aquela colher de chá...**
 
 Seu código tem que fazer algo assim (ou parecido com isso) acontecer:
 
