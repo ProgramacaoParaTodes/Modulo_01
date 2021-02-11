@@ -232,13 +232,22 @@ Você deverá criar uma calculadora que receberá dois números inteiros positiv
 Neste caso, foi digitado 5 como primeiro número, 2 como segundo número, * como operação.
 
 **Importante**
+
 - Escolha bem os nomes das suas variáveis.
 - Lembre-se que você pode ter blocos dentro de outros blocos, ou seja, você pode ter ifs dentro de um while, pode ter while dentro de um while e assim por diante.
 - Resolva o desafio por partes, ou seja, primeiro crie a estrutura mais básica para a leitura dos números, sem fazer as verificações. Teste a estrutura e só então faça as modificações necessárias para que, por exemplo, a leitura do primeiro número seja solicitada novamente caso não seja digitada uma string com caracteres numéricos.
 - Teste o seu código MUITAS vezes antes de entregar!
 
 **Prazo de entrega**
+
 Conforme as instruções, o desafio deverá ser entregue antes da 6a aula. Nossa 6a aula ocorrerá no dia 03/03 às 19:00, então o prazo limite para entrega é até 19:00 do dia 03/03. Todas as informações sobre entrega estão neste repositório do GitHub onde vocês consultam os resumos das aulas.
 
 **IMPORTANTE**
-Não deixe de entregar! Se não conseguir fazer funcionar 100%, entregue o que você fez. Para mim, é muito mais importante que você tente fazer, tire dúvidas, discuta com seus colegas, se esforce, etc. do que entregar um código funcionando 100%, beleza? 💜
+
+Não deixe de entregar! Se não conseguir fazer funcionar 100%, entregue o que você fez, tente atingir pelo menos 75%. Para mim, é muito mais importante que você tente fazer, tire dúvidas, discuta com seus colegas, se esforce, etc. do que entregar um código funcionando 100%, beleza? 💜
+
+**Aquela colher de chá...***
+
+Seu código tem que fazer algo assim (ou parecido com isso) acontecer:
+
+<img src="desafio01.gif">
