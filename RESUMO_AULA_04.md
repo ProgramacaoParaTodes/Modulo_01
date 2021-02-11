@@ -214,4 +214,8 @@ O método *count()* pode ser útil para descobrir, como no exemplo mostrado, se 
 
 ### Primeiro Desafio
 
-**em breve**
+Você deverá criar uma calculadora que receberá dois números inteiros e, em seguida, uma operação (+, -, * ou /). Quando for digitada a operação, o resultado deverá ser exibido na tela.
+
+**Requisitos**
+
+1. Só 
