@@ -211,3 +211,7 @@ print(at_sign)
 Esses métodos podem ser úteis de diversas formas, por exemplo, em um programa que o usuário precise escolher a opção A ou B. Ao pegar o input do usuário, você pode converter com o método *upper()* e só depois verificar se foi A ou B que ele digitou.
 
 O método *count()* pode ser útil para descobrir, como no exemplo mostrado, se o usuário digitou o e-mail mais próximo do valor válido, ou seja, com apenas uma @. 
+
+### Primeiro Desafio
+
+**em breve**
