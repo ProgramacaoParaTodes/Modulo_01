@@ -212,10 +212,33 @@ Esses métodos podem ser úteis de diversas formas, por exemplo, em um programa 
 
 O método *count()* pode ser útil para descobrir, como no exemplo mostrado, se o usuário digitou o e-mail mais próximo do valor válido, ou seja, com apenas uma @. 
 
-### Primeiro Desafio
+### Primeiro Desafio 🏆
 
-Você deverá criar uma calculadora que receberá dois números inteiros e, em seguida, uma operação (+, -, * ou /). Quando for digitada a operação, o resultado deverá ser exibido na tela.
+Você deverá criar uma calculadora que receberá dois números inteiros positivos e, em seguida, uma operação (+, -, * ou /). Quando for digitada a operação, o resultado deverá ser exibido na tela.
 
 **Requisitos**
 
-1. Só 
+1. Só pode digitar números inteiros positivos, ou seja, a string digitada só poderá conter caracteres numéricos (0 até 9): 0, 1, 14, 35, 129...
+1.1. Enquanto não for digitada uma string que possua somente caracteres numéricos para o **primeiro número**, o programa deverá exibir a crítica e solicitar novamente que o número seja digitado.
+1.2. Enquanto não for digitada uma string que possua somente caracteres numéricos para o **segundo número**, o programa deverá exibir a crítica e solicitar novamente que o número seja digitado.
+1.3. Enquanto não for digitada uma operação válida ou a letra S, o código deverá exibir a crítica e solicitar novamente que a operação ou o S seja digitado.
+2. Se for digitado S (ou s) no momento em que a operação é solicitada, a execução do código deve parar.
+3. Se o segundo número for zero e a operação escolhida for a divisão, a operação não deverá ocorrer. O programa deverá exibir a crítica e retornar automaticamente para a digitação dos números.
+4. O resultado da operação deverá ser um float com 2 casas decimais para todas as operações, exceto para a divisão, quando deverá ter 3 casas decimais.
+5. O resultado deverá ser exibido da seguinte maneira:
+```sh
+5 * 2 = 10.00
+```
+Neste caso, foi digitado 5 como primeiro número, 2 como segundo número, * como operação.
+
+**Importante**
+- Escolha bem os nomes das suas variáveis.
+- Lembre-se que você pode ter blocos dentro de outros blocos, ou seja, você pode ter ifs dentro de um while, pode ter while dentro de um while e assim por diante.
+- Resolva o desafio por partes, ou seja, primeiro crie a estrutura mais básica para a leitura dos números, sem fazer as verificações. Teste a estrutura e só então faça as modificações necessárias para que, por exemplo, a leitura do primeiro número seja solicitada novamente caso não seja digitada uma string com caracteres numéricos.
+- Teste o seu código MUITAS vezes antes de entregar!
+
+**Prazo de entrega**
+Conforme as instruções, o desafio deverá ser entregue antes da 6a aula. Nossa 6a aula ocorrerá no dia 03/03 às 19:00, então o prazo limite para entrega é até 19:00 do dia 03/03. Todas as informações sobre entrega estão neste repositório do GitHub onde vocês consultam os resumos das aulas.
+
+**IMPORTANTE**
+Não deixe de entregar! Se não conseguir fazer funcionar 100%, entregue o que você fez. Para mim, é muito mais importante que você tente fazer, tire dúvidas, discuta com seus colegas, se esforce, etc. do que entregar um código funcionando 100%, beleza? 💜
