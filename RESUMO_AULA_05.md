@@ -211,6 +211,7 @@ junk_food.remove("batata frita")    # remove o elemento especificado independent
 
 print(junk_food)                    # mostra ['sorvete de chocolate', 'pizza']
 ```
+Veja este Repl [aqui](https://repl.it/@ProgParaTodes/UtterGrippingBoastmachine#main.py) para mais exemplos!
 
 **Limpando a lista com o clear()**
 
