@@ -138,7 +138,7 @@ print(musica)    # mostra as minhas preferências musicais ['Rock', 'Pop', 'Anos
 
 **somando uma lista a outra pré-existente**
 
-Acrescenta os itens da lista somada à lista que já existia, resultando em uma lista maior.
+Acrescenta os itens da lista somada à lista que já existia, resultando em uma lista maior. Veja este Repl [aqui](https://repl.it/@ProgParaTodes/JauntyUnfortunateBookmarks#main.py)!
 
 ```python
 lista_vazia = []                         # lista vazia
