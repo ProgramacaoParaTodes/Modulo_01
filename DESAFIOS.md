@@ -18,7 +18,7 @@ Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de
 
 **Disponibilização do enunciado:** ao final da penúltima aula.
 
-**Data limite para entrega:** Uma semana após a última aula.
+**Data limite para entrega:** DUAS semanas após a última aula, devido ao atraso da penúltima aula e a reposição ser um dia antes da última aula.
 
 ✅ Clique [aqui](https://forms.gle/RNo66WEaoH8KakmL8) para entregar o segundo desafio.
 
