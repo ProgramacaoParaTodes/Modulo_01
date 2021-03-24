@@ -17,8 +17,9 @@ Eles serão corrigidos e avaliados individualmente. Caso exista a necessidade de
 ## ⭐️ Segundo desafio
 
 **Disponibilização do enunciado:** ao final da penúltima aula.
+🔴 Atualizado: devido à reposição da penúltima aula, o desafio foi disponibilizado na última aula.🔴
 
-**Data limite para entrega:** DUAS semanas após a última aula, devido ao atraso da penúltima aula e a reposição ser um dia antes da última aula.
+**Data limite para entrega [ATUALIZADA]:** 06 de abril.
 
 ✅ Clique [aqui](https://forms.gle/RNo66WEaoH8KakmL8) para entregar o segundo desafio.
 
