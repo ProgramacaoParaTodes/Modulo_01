@@ -6,7 +6,7 @@ Na nossa sétima aula, falamos sobre os seguintes assuntos:
 
 Para acessar os Repls dessa aula, clique [aqui](https://repl.it/@ProgParaTodes/PhonyBadDrawings#main.py), [aqui](https://repl.it/@ProgParaTodes/AnotherLightgreenMicrobsd#main.py), [aqui](https://repl.it/@ProgParaTodes/ZanyOpaqueDiscussion#main.py) e [aqui](https://repl.it/@ProgParaTodes/FrightenedDarkredProcedure#main.py).
 
-🔴 Neste material também está incluída a parte de **tuplas** que será abordada no início da oitava aula! Os Repls referente ao assunto Tuplas serão adicionados nesta aula aqui. Vou atualizar, ok? 🔴
+🔴 Atualização - Repls referentes a parte de Tuplas: [aqui](https://replit.com/@ProgParaTodes/PaltryThankfulActivecontent#main.py), [aqui](https://replit.com/@ProgParaTodes/StarchyButteryAdmins#main.py) e [aqui](https://replit.com/@ProgParaTodes/KlutzyAcademicOctagons#main.py). 🔴
 
 ## Funções
 
